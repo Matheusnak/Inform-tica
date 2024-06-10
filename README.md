@@ -6,7 +6,7 @@
 
 # Tabela de custos padaria
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/24bee8c0-b283-44b7-9ae2-a2a3df375482)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/95d57334-1cce-41b4-ab2d-9a5f785bd38b)
  
 # Power BI financial reports
  
@@ -14,7 +14,7 @@
  
 # Tabela Excel financial reports
  
-
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/b3435d44-3447-4fbf-83ce-804ff9b81fba)
  
 # Dinâmica horário de professores
  
