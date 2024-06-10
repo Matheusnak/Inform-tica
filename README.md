@@ -1,22 +1,44 @@
-Informática
+# 💻Informática (INF168)
+ 
+# Apresentação Compartilhada
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/51c86866-29b0-4bc1-b760-29bedde42d25)
+ 
+# Tabela de custos padaria
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/24bee8c0-b283-44b7-9ae2-a2a3df375482)
+ 
+# Power BI financial reports
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/a091fee0-3ae2-48e1-aa5c-ec1557ec8767)
+ 
+# Tabela Excel financial reports
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/afc1c963-c765-4b0e-9c7f-8981b5a81106)
+ 
+# Dinâmica horário de professores
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/fc77ff09-c9b0-4cfc-9513-34b5433dbb28)
+ 
+# Tabela Exercício 1
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/0cc85834-137c-485c-92ed-dd58ab5915e0)
+ 
+# Tabela Exercício 2
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/b9a35734-34c1-461f-bb67-119a6ec1d7b5)
+ 
+# Tabela custos pessoais
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/5008dffd-3984-42af-87fe-3229b007dd92)
+ 
+# Avaliação
+ 
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/bf81155e-5ba4-493b-affe-0e1ee01910e5)
 
-Apresentação Compartilhada
-
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/771b34dc-cc78-4fe6-aab4-e744e1c8d11d)
-
-Power APPS
-
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/3c1ee9a2-8d97-45b4-a949-d14663690cde)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/e896b8be-7f4e-4957-ab2f-3a73492e2a38)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/9494d698-8f33-47de-9b5d-708ae61ec5d1)
-
-Exercícios Excell
-
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/e24e4499-dd2f-4874-aac2-b6b594f37f54)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/9494d698-8f33-47de-9b5d-708ae61ec5d1)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/e896b8be-7f4e-4957-ab2f-3a73492e2a38)
-
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/9494d698-8f33-47de-9b5d-708ae61ec5d1)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/1ee7ca0f-a8b4-41ce-ae45-e66138f79830)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/09120b41-1f5c-41ce-8a5c-2cd577dc753d)
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/757ebde0-262f-486d-bfed-3e8198d88bb2)
+ 
+# Aplicativo Power App
+ 
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/953e5bd9-0320-476b-bec7-a937fe5e0110)
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/b8520503-cf81-4580-9c3f-21ac82f9a7df)
+![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/30033a6b-85aa-412e-8ae5-24040713d2c2)
