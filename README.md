@@ -2,35 +2,35 @@
  
 # Apresentação Compartilhada
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/51c86866-29b0-4bc1-b760-29bedde42d25)
- 
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/6fcba203-439c-4803-bef3-4df79fe8bbbf)
+
 # Tabela de custos padaria
  
 ![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/24bee8c0-b283-44b7-9ae2-a2a3df375482)
  
 # Power BI financial reports
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/a091fee0-3ae2-48e1-aa5c-ec1557ec8767)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/76128d57-486c-4feb-898d-9dae72035914)
  
 # Tabela Excel financial reports
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/afc1c963-c765-4b0e-9c7f-8981b5a81106)
+
  
 # Dinâmica horário de professores
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/fc77ff09-c9b0-4cfc-9513-34b5433dbb28)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/11ea38a4-623c-4355-889f-1d35f48b8969)
  
 # Tabela Exercício 1
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/0cc85834-137c-485c-92ed-dd58ab5915e0)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/f985a38a-8773-4a7a-a0df-2590dd41484d)
  
 # Tabela Exercício 2
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/b9a35734-34c1-461f-bb67-119a6ec1d7b5)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/604ec8c7-f0d5-4c33-bd8a-97b39953140b)
  
 # Tabela custos pessoais
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/5008dffd-3984-42af-87fe-3229b007dd92)
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/be2b9ad6-e13f-4051-9dcf-ce97ef79ccae)
  
 # Avaliação
  
@@ -39,6 +39,4 @@
  
 # Aplicativo Power App
  
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/953e5bd9-0320-476b-bec7-a937fe5e0110)
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/b8520503-cf81-4580-9c3f-21ac82f9a7df)
-![image](https://github.com/gmcunha98750012/Inform-tica/assets/162647519/30033a6b-85aa-412e-8ae5-24040713d2c2)
+
