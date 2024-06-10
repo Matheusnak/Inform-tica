@@ -10,8 +10,8 @@
  
 # Power BI financial reports
  
-![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/76128d57-486c-4feb-898d-9dae72035914)
- 
+![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/3e9c9aff-114d-46bd-a30a-69c23e940011)
+
 # Tabela Excel financial reports
  
 ![image](https://github.com/Matheusnak/Inform-tica/assets/162643884/b3435d44-3447-4fbf-83ce-804ff9b81fba)
